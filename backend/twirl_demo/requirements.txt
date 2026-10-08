@@ -1,0 +1,7 @@
+qiskit>=2.0
+qiskit-aer>=0.17
+qiskit-ibm-runtime>=0.40
+numpy
+scipy
+python-dotenv
+pytest

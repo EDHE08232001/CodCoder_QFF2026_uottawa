@@ -1,0 +1,9 @@
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+numpy>=2,<3
+scipy>=1.14,<2
+httpx>=0.27,<1
+python-dotenv>=1,<2
+qiskit==2.5.2
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.47.0
